@@ -7,7 +7,7 @@ Voir la PR d'exemple :
 https://github.com/ValentinMontagne/courses-web-services-rendu/pull/1  
 
 ## Notation
-8 points sur les TPs.
-12 points sur les exercices.
-+2 point par exercice bonus réalisé.
+8 points sur les TPs.  
+12 points sur les exercices.  
++2 point par exercice bonus réalisé.  
 Total sur 20 (Max 20)
